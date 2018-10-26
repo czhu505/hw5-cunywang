@@ -11,7 +11,7 @@ Read the following:
 
 Optional Readings:
 - [Paper on RDD](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
-- [Advanced Analytics with Spark: Patterns for Learning from Data at Scale, 2nd Edition](https://www.amazon.com/_/dp/1491972955), Chapters 1 - 2
+- [Advanced Analytics with Spark: Patterns for Learning from Data at Scale, 2nd Edition](https://www.amazon.com/_/dp/1491972955), Chapters 1 - 2 (read from here: http://shop.oreilly.com/product/0636920056591.do)
 
 Additional Resources:
 - [Good intro resource on PySpark](https://annefou.github.io/pyspark/slides/spark/#1)
