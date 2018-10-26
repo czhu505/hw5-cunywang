@@ -1,6 +1,6 @@
 ## DATA622 HW #5
-- Assigned on October 25, 2017
-- Due on November 28, 2017 11:59 PM EST
+- Assigned on October 25, 2018
+- Due on November 28, 2018 11:59 PM EST
 - 15 points possible, worth 15% of your final grade
 
 ### Instructions:
